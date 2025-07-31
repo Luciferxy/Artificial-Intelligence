@@ -1,7 +1,5 @@
 # Building AI Agents From Scratch: A Daily Python Journey
 
-![Project Banner](https://via.placeholder.com/1200x300.png?text=Building+AI+Agents+From+Scratch)
-
 A warm welcome to this open-source project where we embark on a daily adventure to build Artificial Intelligence agents from the ground up using Python. This repository serves as a learning resource, providing a new Python file each day that focuses on a specific aspect of creating AI agents.
 
 ## 🌟 Project Overview
