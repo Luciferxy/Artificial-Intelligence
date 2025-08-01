@@ -46,14 +46,15 @@ You will also need `git` to clone the repository.
 
 Here you will find a log of the daily Python files, with the most recent at the top. Each entry will include the day, a description of the topic covered, and a direct link to the file.
 
+*   **Day 002: Giving AI Agents Tools** - This notebook explores the "Tool Pattern," demonstrating how to give an AI agent new capabilities. It features a `@tool` decorator that turns a standard Python function (for fetching Hacker News stories) into a tool that the `ToolAgent` can intelligently decide to use to answer user queries. [Link to file](./Day2(tool_pattern).ipynb)
 *   **Day 001: Introduction to Reflection Patterns** - This notebook introduces the concept of reflection in AI agents. It uses the `agentic_patterns` library to show how a `ReflectionAgent` can iteratively write and refine code. The example demonstrates the creation of a Merge Sort algorithm, where one agent generates the initial code and a second "reflector" agent provides feedback for improvement. [Link to file](./Day1(refecting_patterns).ipynb)
 *   *(...and so on...)*
 
 ## 🤖 Usage
 
-Each Python file is a self-contained lesson. To run a specific day's file, navigate to the project directory in your terminal and execute it using Python.
+Each daily file is a self-contained lesson. To run a file, navigate to the project directory and use Jupyter Notebook or your preferred IDE.
 
-For example, to run the file for Day 1:
+For example, to run the file for Day 2:
 ```sh
 # This is a Jupyter Notebook, so open it with Jupyter:
-jupyter notebook "Day1(refecting_patterns).ipynb"
+jupyter notebook "Day2(tool_pattern).ipynb"
