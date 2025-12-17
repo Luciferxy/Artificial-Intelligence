@@ -14,18 +14,30 @@ Whether you're building simple chatbots or autonomous agents, this path covers i
 
 ## 🗺️ The Roadmap
 
-### **Stage 1: The Awakening** 🐣
-- [x] **[01_basics.ipynb](./01_basics.ipynb)**: Igniting the engine.
-  - *Topics:* Environment Setup, PromptTemplates, Simple Chains, `ChatGroq`.
-- [x] **[02_memory.ipynb](./02_memory.ipynb)**: Giving the AI a brain.
-  - *Topics:* Chat History, `RunnableWithMessageHistory`, State Management.
+### **Module 1: Foundations & Setup** 🐣
+- [x] **[01_basics.ipynb](./01_basics.ipynb)**: Environment Setup, PromptTemplates, Simple Chains.
 
-### **Stage 2: The Knowledge Base (RAG)** 🧠
-- [ ] **03_lcel_chains.ipynb**: Mastering the language of chains (LCEL).
-- [ ] **04_rag_basics.ipynb**: Connecting LLMs to the real world (Documents, Vector Stores).
+### **Module 2: Memory & State** 🧠
+- [x] **[02_memory.ipynb](./02_memory.ipynb)**: Chat History, `ConversationBufferMemory`, `RunnableWithMessageHistory`.
 
-### **Stage 3: The Autonomous Future** 🤖
-- [ ] **05_agents.ipynb**: Building agents that *do* things, not just talk.
+### **Module 3: Data Connections (RAG)** 📚
+- [ ] **04_rag_basics.ipynb**:
+    - Document Loaders (Text, PDF)
+    - Splitting & Chunking Text
+    - Vector Stores & Embeddings
+    - Retrieval Chains
+
+### **Module 4: Chains & Flows** ⛓️
+- [ ] **03_lcel_chains.ipynb**:
+    - Sequential Chains
+    - RunnableSequence (LCEL)
+    - Piping components
+
+### **Module 5: Agents & Tools** 🤖
+- [ ] **05_agents.ipynb**:
+    - Creating Custom Tools
+    - Using Built-in Tools
+    - Building an Agent (ReAct)
 
 ---
 
