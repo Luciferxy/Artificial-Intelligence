@@ -4,8 +4,11 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-0.1-green?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Powered_By-Groq_🚀-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Module_2_Uploaded-2ea44f?style=for-the-badge)
 
 ## 🚀 Mission Brief
+> **Latest Update**: Module 2 (Memory & State) is now live! 🧠 ✨
+
 Welcome to my **LangChain Learning Lab**! This repository documents my journey into the world of **LLM Orchestration**. Here, we break down complex AI concepts into bite-sized, executable Jupyter Notebooks.
 
 Whether you're building simple chatbots or autonomous agents, this path covers it all.
